@@ -16,4 +16,7 @@
   * Bước 3: Thiết kế giao diện
   * Bước 4: Xây dựng chương trình
   * Bước 5: Kiểm thử và hoàn tất.
+  
+# NỘI DUNG BÀI TOÁN:
+  * Bài toán đã được làm từ phần mềm 
 
