@@ -18,5 +18,8 @@
   * Bước 5: Kiểm thử và hoàn tất.
   
 # NỘI DUNG BÀI TOÁN:
-  * Bài toán đã được làm từ phần mềm 
+  * Bài toán đã được làm từ phần mềm Visual studio Code
+  * Được làm từ 2 phần FrontEnd và BackEnd
+  * Thực hiện các chức năng quản lý cơ bản
+  
 
